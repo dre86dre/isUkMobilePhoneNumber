@@ -51,3 +51,7 @@ Done
   - Chat and message filtering
   - Contact info extraction tools
   - Data-cleaning pipelines
+ 
+## 📝 License
+This project is open source and available under the MIT License.
+You are free to use, modify, and distribute this script in your own projects.
