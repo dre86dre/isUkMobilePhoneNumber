@@ -30,8 +30,24 @@ Phone number found: +447377427818
 Phone number found: 07700123456
 Done
 ```
+
 ## 📂 Files
 
 - isUkMobilePhoneNumber.py: Main script containing phone number detection logic.
-
 - README.md: This documentation file.
+
+## ✅ Requirements
+
+- Python 3.x
+- No external libraries required. The script uses only built-in functions.
+
+## 🧪 Testing & Customisation
+- Modify or expand the ```isUkMobilePhoneNumber()``` function to support additional formats like:
+  - Numbers with spaces (+44 7123 456789)
+  - Numbers with dashes or brackets
+
+Use this function in:
+  - Web form validation
+  - Chat and message filtering
+  - Contact info extraction tools
+  - Data-cleaning pipelines
