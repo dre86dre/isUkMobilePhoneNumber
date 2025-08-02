@@ -33,8 +33,8 @@ Done
 
 ## 📂 Files
 
-- isUkMobilePhoneNumber.py: Main script containing phone number detection logic.
-- README.md: This documentation file.
+- `isUkMobilePhoneNumber.py`: Main script containing phone number detection logic.
+- `README.md`: This documentation file.
 
 ## ✅ Requirements
 
@@ -42,8 +42,8 @@ Done
 - No external libraries required. The script uses only built-in functions.
 
 ## 🧪 Testing & Customisation
-- Modify or expand the ```isUkMobilePhoneNumber()``` function to support additional formats like:
-  - Numbers with spaces ```(+44 7123 456789)```
+- Modify or expand the `isUkMobilePhoneNumber()` function to support additional formats like:
+  - Numbers with spaces `(+44 7123 456789)`
   - Numbers with dashes or brackets
 
 - Use this function in:
